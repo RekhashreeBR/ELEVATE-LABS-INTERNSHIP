@@ -9,4 +9,5 @@
 * FUNNEL : Representing the count of : "SALES" by "CATEGORY"
 
 ## 📸PREVIEW
-![Dashboard]superstore sales dashboard.pdf
+
+![WhatsApp Image 2025-05-13 at 17 58 04_42ed2b74](https://github.com/user-attachments/assets/1ab862e0-6570-454d-b1ea-4bb2cee98f9e)
