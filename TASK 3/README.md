@@ -1,4 +1,7 @@
-# 🐬SQL for Data Analysis
+
+# INTERNSHIP TASK 3
+
+## 🐬SQL for Data Analysis
 Used SQL queries to extract and analyze data from a E_Commerce database in MySQL Workbench.
 
 
