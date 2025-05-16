@@ -13,4 +13,3 @@ Designed an interactive dashboard for business stakeholders using Power BI , foc
 ![WhatsApp Image 2025-05-16 at 19 54 28_c50a4da7](https://github.com/user-attachments/assets/165e9261-a703-4ec8-b3a7-5430f6b064ed)
 
 
-### INSIGHTS
