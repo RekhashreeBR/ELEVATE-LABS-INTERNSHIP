@@ -7,4 +7,10 @@
 
 - **Visualize patterns using charts, filters, and slicers in Power BI.**
 ---
-### ⚒️TOOLS 
+### ⚒️TOOLS AND TECHNIQUES:
+- **🐍PYTHON (Pandas, Seaborn , Sklearn ,matplotlib.pyplot ,shap)**
+- **📈Logistic Regression**
+- **📙Jupyter notebook**
+- **📊Power BI**
+
+-----
